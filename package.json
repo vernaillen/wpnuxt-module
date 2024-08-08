@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "3.12.4",
-    "@vueuse/nuxt": "^10.11.0",
+    "@vueuse/nuxt": "^10.11.1",
     "defu": "^6.1.4",
     "nuxt-graphql-middleware": "4.1.1",
     "ohash": "^1.1.3",
